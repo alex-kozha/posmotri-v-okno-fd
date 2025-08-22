@@ -96,7 +96,7 @@ ol {
   flex-direction: column;
   overflow:auto;
   gap: 30px;
-  height: 298px;
+  height: 300px;
   position: relative;
   overflow-x: hidden;
 }
