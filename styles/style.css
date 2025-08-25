@@ -252,7 +252,7 @@ gap:30px;
   outline:none;
 }
 
-.search-form__fieldset:has(.search-form__textfield:focus-visible) {
+.search-form__label:has(.search-form__textfield:focus-visible) {
   outline:1px solid white;
 }
 
